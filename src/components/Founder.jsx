@@ -36,9 +36,9 @@ const Founder = () => {
               {/* Founder Info */}
               <div className="flex flex-col items-center mb-12">
                 <div className="w-32 h-32 rounded-full bg-gradient-to-br from-earth-green to-ocean-blue flex items-center justify-center mb-6 shadow-2xl">
-                  <span className="text-white text-5xl font-bold">SB</span>
+                  <span className="text-white text-5xl font-bold">RS</span>
                 </div>
-                <h3 className="text-3xl font-bold text-gray-900 mb-2">Siddhu Boro</h3>
+                <h3 className="text-3xl font-bold text-gray-900 mb-2">Radhe Shyam</h3>
                 <p className="text-lg text-gray-600 font-medium">Founder & Visionary</p>
                 <p className="text-sm text-gray-500 mt-1">Mulug Enterprises Pvt Ltd</p>
               </div>
@@ -66,7 +66,7 @@ const Founder = () => {
               <div className="mt-12 text-center">
                 <div className="inline-block">
                   <p className="text-2xl font-bold text-earth-green mb-1" style={{ fontFamily: 'cursive' }}>
-                    Siddhu Boro
+                    Radhe Shyam
                   </p>
                   <div className="h-0.5 bg-gradient-to-r from-earth-green to-ocean-blue" />
                 </div>
