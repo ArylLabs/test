@@ -57,7 +57,7 @@ const Hero = () => {
             transition={{ delay: 0.4 }}
             className="text-5xl sm:text-6xl lg:text-7xl font-bold text-gray-900 mb-6 leading-tight"
           >
-            Building for the <span className="text-transparent bg-clip-text bg-gradient-to-r from-earth-green to-ocean-blue">World</span>.
+            Building for the <span className="text-transparent bg-clip-text bg-gradient-to-r from-earth-green to-ocean-blue">Earth</span>.
             <br />
             Rooted in <span className="text-transparent bg-clip-text bg-gradient-to-r from-earth-green to-ocean-blue">Purpose</span>.
           </motion.h1>

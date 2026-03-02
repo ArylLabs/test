@@ -48,7 +48,7 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-gray-400 mb-6 leading-relaxed">
-              Building for the World. Rooted in Purpose. A mission-driven enterprise creating sustainable, 
+              Building for the Earth. Rooted in Purpose. A mission-driven enterprise creating sustainable, 
               tech-enabled ventures for humanity and Earth.
             </p>
             <div className="flex items-center space-x-2 text-gray-400 mb-4">

@@ -1,6 +1,6 @@
 # 🌏 Mulug Enterprises - Official Website
 
-**Building for the World. Rooted in Purpose.**
+**Building for the Earth. Rooted in Purpose.**
 
 ## About
 Mulug Enterprises Private Limited is a purpose-driven Indian company focused on building sustainable, tech-enabled, and human-centered ventures. The name "Mulug" means "World" in the Bodo language.

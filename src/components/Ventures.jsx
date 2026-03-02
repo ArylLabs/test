@@ -17,7 +17,7 @@ const Ventures = () => {
       icon: Zap,
       name: 'Buhum Energy',
       focus: 'Renewable Energy',
-      tagline: 'Powering a Sustainable World.',
+      tagline: 'Powering a Sustainable Earth.',
       color: 'from-yellow-500 to-orange-600',
       bgColor: 'bg-yellow-50',
       emoji: '⚡'
@@ -95,7 +95,7 @@ const Ventures = () => {
                   </p>
                 </div>
               </div>
-              
+
               <div className={`bg-gradient-to-r ${venture.color} text-transparent bg-clip-text`}>
                 <p className="text-xl font-bold italic">
                   "{venture.tagline}"
