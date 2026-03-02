@@ -3,7 +3,7 @@
 **Building for the World. Rooted in Purpose.**
 
 ## About
-Mulug Enterprises Pvt Ltd is a purpose-driven Indian company focused on building sustainable, tech-enabled, and human-centered ventures. The name "Mulug" means "World" in the Bodo language.
+Mulug Enterprises Private Limited is a purpose-driven Indian company focused on building sustainable, tech-enabled, and human-centered ventures. The name "Mulug" means "World" in the Bodo language.
 
 ## Tech Stack
 - React 18
