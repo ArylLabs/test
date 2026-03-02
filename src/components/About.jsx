@@ -34,7 +34,7 @@ const About = () => {
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-earth-green to-ocean-blue mx-auto mb-6" />
             <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-              Mulug Enterprises Pvt Ltd is a purpose-driven Indian company focused on building sustainable, 
+              Mulug Enterprises Pvt Ltd is a purpose-driven Indian company focused on building sustainable,
               tech-enabled, and human-centered ventures.
             </p>
           </motion.div>
@@ -48,11 +48,11 @@ const About = () => {
               <div>
                 <h3 className="text-3xl font-bold text-gray-900 mb-4">Our Story</h3>
                 <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                  Founded by <span className="font-semibold text-earth-green">Goutam Boro</span>, Mulug is guided by the values of 
+                  Founded by <span className="font-semibold text-earth-green">Aron Boro</span>, Mulug is guided by the values of
                   compassion, innovation, and sustainability — aiming to empower lives and protect our planet.
                 </p>
                 <p className="text-lg text-gray-700 leading-relaxed">
-                  The name <span className="font-semibold text-earth-green">Mulug</span> means <span className="italic font-semibold">World</span> in 
+                  The name <span className="font-semibold text-earth-green">Mulug</span> means <span className="italic font-semibold">World</span> in
                   the Bodo language — a reflection of our vision to serve every being on this Earth through ethical business and meaningful innovation.
                 </p>
               </div>
@@ -72,7 +72,7 @@ const About = () => {
                 <h3 className="text-3xl font-bold">Mission</h3>
               </div>
               <p className="text-lg leading-relaxed">
-                To build ventures that balance innovation, compassion, and sustainability — 
+                To build ventures that balance innovation, compassion, and sustainability —
                 empowering communities, advancing technology, and nurturing the planet.
               </p>
             </motion.div>
@@ -88,7 +88,7 @@ const About = () => {
                 <h3 className="text-3xl font-bold">Vision</h3>
               </div>
               <p className="text-lg leading-relaxed">
-                To create a global ecosystem of businesses that serve humanity and Earth together — 
+                To create a global ecosystem of businesses that serve humanity and Earth together —
                 where growth and goodness coexist. 🌍
               </p>
             </motion.div>
@@ -100,7 +100,7 @@ const About = () => {
             <p className="text-xl text-gray-700 text-center mb-12 max-w-3xl mx-auto">
               Mulug is more than a company — it's a mission-driven enterprise creating positive change through business.
             </p>
-            
+
             <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
               {[
                 { icon: '🌾', title: 'Agri & Food', desc: 'Sustainable farming and rural empowerment' },
