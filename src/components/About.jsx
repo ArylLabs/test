@@ -48,7 +48,7 @@ const About = () => {
               <div>
                 <h3 className="text-3xl font-bold text-gray-900 mb-4">Our Story</h3>
                 <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                  Founded by <span className="font-semibold text-earth-green">Aron Boro</span>, Mulug is guided by the values of
+                  Founded by <span className="font-semibold text-earth-green">Siddhu Boro</span>, Mulug is guided by the values of
                   compassion, innovation, and sustainability — aiming to empower lives and protect our planet.
                 </p>
                 <p className="text-lg text-gray-700 leading-relaxed">
