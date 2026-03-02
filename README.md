@@ -48,4 +48,4 @@ npm run preview
 - Website: https://mulug.in
 
 ---
-© 2024 Mulug Enterprises Pvt Ltd. All rights reserved.
+© 2024-2026 Mulug Enterprises Pvt Ltd. All rights reserved.
